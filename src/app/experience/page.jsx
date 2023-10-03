@@ -1,6 +1,8 @@
 import styles from "./page.module.css";
 import experienceData from "@/Data/experienceData.json";
-
+export const metadata = {
+  title: `Adham's Work Experience`,
+}
 const Experience = () => {
   return (
     <section className={styles.experience}>

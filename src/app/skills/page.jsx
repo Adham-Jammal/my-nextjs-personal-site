@@ -2,7 +2,9 @@ import React from "react";
 import styles from "./page.module.css";
 import technicalSkillsData from "@/Data/technicalSkillsData.json";
 import nonTechnicalSkillsData from "@/Data/nonTechnicalSkillsData.json";
-
+export const metadata = {
+  title: `Adham's Expertise`,
+}
 const Skills = () => {
   return (
     <section className={styles.skills}>

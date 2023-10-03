@@ -1,6 +1,5 @@
 import Image from "next/image";
 import certificatesData from "@/Data/certificatesData.json";
-console.log(certificatesData[0].image);
 const CertificatesTab = ({ styles }) => {
   return (
     <>

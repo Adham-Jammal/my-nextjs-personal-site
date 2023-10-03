@@ -1,7 +1,9 @@
 import Image from "next/image";
 import styles from "./page.module.css";
 import portfolioData from "@/Data/portfolioData.json";
-
+export const metadata = {
+  title: `Projects by Adham`,
+}
 const Portfolio = () => {
   return (
     <section className={styles.portfolio}>
