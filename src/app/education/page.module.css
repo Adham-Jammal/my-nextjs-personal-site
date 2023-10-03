@@ -1,0 +1,108 @@
+.education{
+    min-height: 100vh;
+    padding: 50px;
+}
+.buttonsArea{
+    display: flex;
+}
+.buttonsArea button{
+    color: var(--black);
+    font-size: 1.4rem;
+    font-weight: 600;
+    border: 1.5px solid var(--black);
+    padding: 10px 30px;
+    margin-right: 20px;
+    text-transform: uppercase;
+    border-radius: 0px;
+    cursor: pointer;
+}
+.buttonsArea button:hover , .buttonsArea button.active {
+    background-color: var(--black);
+    color: var(--white);
+  }
+.educationRow{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    min-width: 600px;
+    width: 100%;
+    margin-top: 50px;
+}
+.dateCol{
+    width: 25%;
+}
+.infoCol{
+    width: 75%;
+}
+.degreeDate{
+    font-size: 2rem;
+    font-weight: 600;
+}
+.degree{
+    font-size: 2rem;
+}
+.university{
+    display: block;
+    font-style: italic;
+    font-size: 1.4rem;
+    margin: 3px 0;
+}
+.description{
+    font-size: 1.2rem;
+}
+/* Certificates Tab*/
+.certificatesRow{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-around;
+    gap: 30px;
+    margin-top: 25px;
+}
+.certificateCard{
+    width: 400px;
+}
+.certificateInfo{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.certificateName{
+    font-size: 1.6rem;
+}
+.certificateSource{
+    font-size: 1.4rem;
+    font-style: italic;
+    color: var(--gray);
+}
+@media(max-width : 991px){
+    .educationContainer{
+        margin-top: 50px;
+    }
+}
+@media(max-width : 767px){
+    .education{
+        padding: 15px;
+    }
+    .educationContainer{
+        margin-top: 75px;
+    }
+    .educationRow{
+        align-items: flex-start;
+        flex-direction: column;
+    }
+}
+@media(max-width : 500px){
+    .infoCol{
+        max-width: 60%;
+    }
+    .certificateCard{
+        width: 100%;
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        align-items: center;
+    }
+}

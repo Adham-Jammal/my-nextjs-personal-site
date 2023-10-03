@@ -1,0 +1,45 @@
+[
+    {
+        "id":1,
+        "platformName":"Home",
+        "link":"/",
+        "icon":"/icons/Home.png"
+    },
+    {
+        "id":2,
+        "platformName":"About",
+        "link":"/about",
+        "icon":"/icons/About.png"
+    },
+    {
+        "id":3,
+        "platformName":"Education",
+        "link":"/education",
+        "icon":"/icons/Education.png"
+    },
+    {
+        "id":4,
+        "platformName":"Experience",
+        "link":"/experience",
+        "icon":"/icons/Experience.png"
+    },
+    {
+        "id":5,
+        "platformName":"Skills",
+        "link":"/skills",
+        "icon":"/icons/Skills.png"
+    },
+    {
+        "id":6,
+        "platformName":"Portfolio",
+        "link":"/portfolio",
+        "icon":"/icons/Portfolio.png"
+    },
+    {
+        "id":7,
+        "platformName":"Contact",
+        "link":"/contact",
+        "icon":"/icons/Contact.png"
+    }
+    
+]

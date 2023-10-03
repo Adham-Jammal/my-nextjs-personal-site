@@ -1,0 +1,42 @@
+.skills{
+    padding: 50px;
+}
+.skillsPageTitle{
+    font-size: 3rem;
+    margin-bottom: 25px;
+  }
+.skillsContainer{
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+}
+.skillsContainer h3{
+    font-size: 2rem;
+}
+.skillsContainer ul li{
+    list-style: none;
+    font-size: 1.6rem;
+}
+.technicalSkillsList li,
+.nonTechnicalSkillsList li{
+    margin-top: 7px;
+}
+@media(max-width : 991px){
+    .skillsPageTitle{
+        margin-top: 50px;
+    }
+}
+@media(max-width : 767px){
+    .skills{
+        padding: 20px;
+    }
+    .skillsPageTitle{
+        margin-top: 75px;
+    }
+    .skillsContainer{
+        flex-direction: column;
+    }
+    .skillsContainer div{
+        margin-top: 20px;
+    }
+}

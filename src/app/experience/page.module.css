@@ -1,0 +1,75 @@
+.experience{
+  padding: 50px;
+}
+.experiencePageTitle{
+  font-size: 3rem;
+  margin-bottom: 25px;
+}
+.experienceCard{
+  position: relative;
+  width: 80%;
+  margin-bottom: 20px;
+  /* margin: 0 auto 25px auto;  */
+  padding: 15px 0;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.experienceCard ::after{
+  content: '';
+  position: absolute;
+  bottom: -10px;
+  left: 0;
+  width: 100%;
+  height: 1px;
+  background-color: var(--black);
+}
+.experienceDate{
+  width: 25%;
+}
+.experienceDate span{
+  font-size: 2rem;
+  font-weight: 600;
+}
+.experienceContent{
+  width: 75%;
+}
+.experienceContent .experiencePosition{
+  font-size: 2.4rem;
+}
+.experienceContent .employer{
+  font-size: 1.6rem;
+  font-style: italic;
+  color: var(--gray);
+}
+.experienceContent ul.description{
+  list-style: '- ';
+}
+.experienceContent ul.description li{
+  font-size: 1.6rem;
+  line-height: 22px;
+}
+
+@media(max-width : 991px){
+  .experienceCard{
+    width: 100%;
+  }
+  .experiencePageTitle{
+    margin-top: 50px;
+  }
+}
+@media(max-width : 767px){
+  .experience{
+    padding: 20px;
+  }
+  .experiencePageTitle{
+    margin-top: 75px;
+  }
+  .experienceCard{
+    flex-direction: column;
+  }
+  .experienceDate{
+    width: 100%;
+  }
+}

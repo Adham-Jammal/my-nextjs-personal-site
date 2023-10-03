@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "degree": "Bachelor's Degree in Information Technology",
+    "university": "Syrian Virtual University (SVU)",
+    "date": "2020 - 2023",
+    "description": "an upgrade from Diploma in Computer Engineering Technology"
+  },
+  {
+    "id": 2,
+    "degree": "Diploma in Computer Engineering Technology/Technician",
+    "university": "Tishreen University",
+    "date": "2018 - 2020",
+    "description": "Graduated in the top ranks of the class, achieving second place out of students."
+  }
+]

@@ -1,0 +1,54 @@
+[
+  {
+    "id": 1,
+    "skill": "Proficiency in HTML, CSS, and JavaScript."
+  },
+  {
+    "id": 2,
+    "skill": "Skilled in ReactJS for creating interactive user interfaces."
+  },
+  {
+    "id": 3,
+    "skill": "Proficiency in Redux for state management within React."
+  },
+  {
+    "id": 4,
+    "skill": "Familiarity with API integration and JSON handling in React."
+  },
+  {
+    "id": 5,
+    "skill": "Understanding of TypeScript for enhanced project development."
+  },
+  {
+    "id": 6,
+    "skill": "Knowledge of Next.js 13 for server-side rendered React applications."
+  },
+  {
+    "id": 7,
+    "skill": "Experience with version control systems."
+  },
+  {
+    "id": 8,
+    "skill": "Strong grasp of responsive design principles and strategies."
+  },
+  {
+    "id": 9,
+    "skill": "Proficient in Sass for modular CSS styling."
+  },
+  {
+    "id": 10,
+    "skill": "Proficient in using Bootstrap for rapid and responsive web development."
+  },
+  {
+    "id": 11,
+    "skill": "Familiarity with website optimization techniques."
+  },
+  {
+    "id": 12,
+    "skill": "Knowledge of website performance analysis tools."
+  },
+  {
+    "id": 13,
+    "skill": "Basic understanding of data structures and algorithms."
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "skill": "Quick learner."
+  },
+  {
+    "id": 2,
+    "skill": "Strong communication skills."
+  },
+  {
+    "id": 3,
+    "skill": "Disciplined."
+  },
+  {
+    "id": 4,
+    "skill": "Ability to work with tight deadlines"
+  },
+  {
+    "id": 5,
+    "skill": "Ability to handle pressure"
+  },
+  {
+    "id": 6,
+    "skill": "Team player"
+  },
+  {
+    "id": 7,
+    "skill": "Independent worker"
+  },
+  {
+    "id": 8,
+    "skill": "Problem solver"
+  },
+  {
+    "id": 9,
+    "skill": "Task evaluator"
+  }
+]

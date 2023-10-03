@@ -1,0 +1,79 @@
+[
+  {
+    "id": 1,
+    "name": "Javascript Course",
+    "source": "SoloLearn",
+    "credentialId": "13060365-1024",
+    "image": "/images/certificates/JS.png"
+  },
+  {
+    "id": 2,
+    "name": "JQuery Course",
+    "source": "SoloLearn",
+    "credentialId": "1082-13060365",
+    "image": "/images/certificates/JQuery.png"
+  },
+  {
+    "id": 3,
+    "name": "Responsive Web Design Course",
+    "source": "SoloLearn",
+    "credentialId": "1162-13060365",
+    "image": "/images/certificates/Responsive.png"
+  },
+  {
+    "id": 4,
+    "name": "CSS Course",
+    "source": "SoloLearn",
+    "credentialId": "1023-13060365",
+    "image": "/images/certificates/CSS.png"
+  },
+  {
+    "id": 5,
+    "name": "HTML Course",
+    "source": "SoloLearn",
+    "credentialId": "1014-13060365",
+    "image": "/images/certificates/HTML.png"
+  },
+  {
+    "id": 6,
+    "name": "Internet Connection: How to Get Online?",
+    "source": "Coursera",
+    "credentialId": "NS264HPHN8D3",
+    "image": "/images/certificates/Internet-Connection.png"
+  },
+  {
+    "id": 7,
+    "name": "Information Security: Context and Introduction",
+    "source": "Coursera",
+    "credentialId": "L4BEJ7N5F4YQ",
+    "image": "/images/certificates/Information-Security.png"
+  },
+  {
+    "id": 8,
+    "name": "Speak English Professionally: In Person, Online & On the Phone",
+    "source": "Coursera",
+    "credentialId": "GF624Y28ZY6V",
+    "image": "/images/certificates/Speak-English.png"
+  },
+  {
+    "id": 9,
+    "name": "Write Professional Emails in English",
+    "source": "Coursera",
+    "credentialId": "DGP4QBXTG3G6",
+    "image": "/images/certificates/Emails.png"
+  },
+  {
+    "id": 10,
+    "name": "Build Your Professional ePortfolio in English",
+    "source": "Coursera",
+    "credentialId": "JQG4YQRN8BSH",
+    "image": "/images/certificates/ePortfolio.png"
+  },
+  {
+    "id": 11,
+    "name": "Digital Marketing",
+    "source": "Google",
+    "credentialId": "JNR F7H NS5",
+    "image": "/images/certificates/Google.png"
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "position": "Programmer & Web Developer",
+    "employer": "Freelance",
+    "date": "Nov 2020 - Present",
+    "description": [
+      "Develop and maintain websites of various types, including landing pages, profile websites, blogs, online stores, and LMS platforms.",
+      "Use a variety of tools and technologies for front-end development.",
+      "Work with Wordpress and Elementor to create user-friendly and visually appealing interfaces.",
+      "Integrate APIs into websites to create dynamic and interactive user experiences.",
+      "Translate designs from Adobe XD and Figma into functional websites.",
+      "Collaborate with clients to ensure their website needs are met and exceeded."
+    ]
+  },
+  {
+    "id": 2,
+    "position": "Front-End Web Developer",
+    "employer": "Yehia Najib Establishment",
+    "date": "May 2021 - Apr 2023",
+    "description": [
+      "Develop and maintain front-end code for various websites, ensuring highquality and responsive design.",
+      "Collaborate with other developers and designers to create user-friendly and visually appealing interfaces.",
+      "Troubleshoot and fix issues related to front-end code.",
+      "Stay up-to-date with the latest front-end development technologies.",
+      "Work without the use of any JS framework."
+    ]
+  }
+
+]

@@ -1,0 +1,27 @@
+[
+    {
+        "id":1,
+        "platformName":"LinkedIn",
+        "link":"https://www.linkedin.com/in/adhamjammal/",
+        "icon":"/icons/linkedIn.png"
+    },
+    {
+        "id":2,
+        "platformName":"Github",
+        "link":"https://github.com/Adham-Jammal",
+        "icon":"/icons/Github.png"
+    },
+    {
+        "id":3,
+        "platformName":"Instagram",
+        "link":"https://www.instagram.com/adhamjammal/",
+        "icon":"/icons/Instagram.png"
+    },
+    {
+        "id":4,
+        "platformName":"Email",
+        "link":"mailto:adham.jammal.1999@gmail.com",
+        "icon":"/icons/Email.png"
+    }
+    
+]
