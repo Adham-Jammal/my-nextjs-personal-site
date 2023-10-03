@@ -1,43 +1,43 @@
 [
     {
         "id":1,
-        "platformName":"Home",
+        "name":"Home",
         "link":"/",
         "icon":"/icons/Home.png"
     },
     {
         "id":2,
-        "platformName":"About",
+        "name":"About",
         "link":"/about",
         "icon":"/icons/About.png"
     },
     {
         "id":3,
-        "platformName":"Education",
+        "name":"Education",
         "link":"/education",
         "icon":"/icons/Education.png"
     },
     {
         "id":4,
-        "platformName":"Experience",
+        "name":"Experience",
         "link":"/experience",
         "icon":"/icons/Experience.png"
     },
     {
         "id":5,
-        "platformName":"Skills",
+        "name":"Skills",
         "link":"/skills",
         "icon":"/icons/Skills.png"
     },
     {
         "id":6,
-        "platformName":"Portfolio",
+        "name":"Portfolio",
         "link":"/portfolio",
         "icon":"/icons/Portfolio.png"
     },
     {
         "id":7,
-        "platformName":"Contact",
+        "name":"Contact",
         "link":"/contact",
         "icon":"/icons/Contact.png"
     }
