@@ -18,7 +18,7 @@ export default function Home() {
           <div className={styles.content}>
             <div className={styles.generalInfo} data-aos="fade-right">
               <h1 className={styles.fullName}>Adham Jammal</h1>
-              <h3 className={styles.position}>Front-End Developer</h3>
+              <p className={styles.position}>Front-End Developer</p>
             </div>
             <div className={styles.buttonsArea}>
               <a href="/files/Adham_Jammal_CV.pdf">Resume</a>
