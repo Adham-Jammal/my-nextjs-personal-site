@@ -1,9 +1,9 @@
 import './globals.css'
 import { Inter } from 'next/font/google'
-import { AOSInit } from '@/components/AosInit';
 import Link from 'next/link';
 import Image from 'next/image';
 import navbarData from "@/Data/navbarData.json";
+import { AOSInit } from '@/components/AOSInit';
 
 const inter = Inter({ subsets: ['latin'] })
 
