@@ -22,7 +22,7 @@ export default function Home() {
             </div>
             <div className={styles.buttonsArea}>
               <a href="/files/Adham_Jammal_CV.pdf">Resume</a>
-              <a href="https://mostaql.com/u/Triple__A">Hire Me</a>
+              <a href="https://www.upwork.com/freelancers/~011bc006743d339d05">Hire Me</a>
             </div>
           </div>
           <div className={styles.socialMedia}>
