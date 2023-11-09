@@ -50,7 +50,27 @@
   font-size: 1.6rem;
   line-height: 22px;
 }
-
+.reviews{
+  margin-top: 10px;
+}
+.reviews h4{
+  font-size: 1.6rem;
+}
+.reviews ul{
+  list-style: none;
+}
+.reviews ul li{
+  margin-top: 4px;
+}
+.reviews p{
+  font-size: 1.4rem;
+}
+.reviews a{
+  font-size: 1.2rem;
+  font-style: italic;
+  color: var(--black);
+  text-decoration: underline;
+}
 @media(max-width : 991px){
   .experienceCard{
     width: 100%;

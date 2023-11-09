@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "position": "Programmer & Web Developer",
+    "position": "Web Developer",
     "employer": "Freelance",
     "date": "Nov 2020 - Present",
     "description": [
@@ -11,6 +11,10 @@
       "Integrate APIs into websites to create dynamic and interactive user experiences.",
       "Translate designs from Adobe XD and Figma into functional websites.",
       "Collaborate with clients to ensure their website needs are met and exceeded."
+    ],
+    "reviews": [
+      { "Mostaql": "https://mostaql.com/u/Adham_J/reviews" },
+      { "Khamsat": "https://khamsat.com/user/a_dham/reviews" }
     ]
   },
   {
@@ -26,5 +30,4 @@
       "Work without the use of any JS framework."
     ]
   }
-
 ]
